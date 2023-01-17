@@ -1,0 +1,17 @@
+*{
+    cursor: none;
+}
+
+body{
+    height: 100vh;
+}
+
+div{
+    width: 20px;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    background-color: blueviolet;
+    position: absolute;
+    top: -20px;
+    left: -20px;
+}
